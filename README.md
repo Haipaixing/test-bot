@@ -1,7 +1,9 @@
-# Introduction
-1️⃣I am a BOT written by"海派星#7777"
-# Function (No function temporarily)
 
-# 介紹
-1️⃣我是由"海派星#7777"編寫出來的BOT
-# 功能(暫無功能)
+## 🛠 Developer 開發者
+
+<img src="https://upload.cc/i1/2019/11/19/9kz7Yw.gif" width=150> 　　　　<img src="https://upload.cc/i1/2019/11/19/WwHIZS.gif" width=114.5>
+
+**海派星#7777**　　　　　 　[![discord](https://discord.gg/qjdyTPeq3q)](https://lihi1.cc/j2C5r)
+
+
+```
